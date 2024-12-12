@@ -4,6 +4,9 @@ Welcome to the Final Project of the course **Python for Data Science**. It consi
 
 ## Dataset Overview
 
+**Note**: *BRK-A is not a fast-food company, but following the given instructions of the project we included the dataset in our analysis.*
+
+
 The dataset consists of stock market data for 10 fast-food companies, each stored in separate CSV files. Each file contains the following columns:
 
 - **Date**: Trading date
@@ -85,8 +88,8 @@ Follow these steps to run the project:
 
 1. Clone this repository:
    	```bash
-   	git clone https://github.com/your-repo-name.git
-   	cd your-repo-name
+   	git clone https://github.com/jakobaugustspreng/PythonFinalGroup9.git
+   	cd jakobaugustspreng/PythonFinalGroup9
 
 2. Install dependencies:
    	```bash
