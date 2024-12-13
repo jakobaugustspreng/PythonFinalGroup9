@@ -101,7 +101,7 @@ Follow these steps to run the project:
 
 4. View the generated plots and summary results.
 
-##License
+## License
 This project is for educational purposes and does not include any proprietary or confidential data.
 
 
